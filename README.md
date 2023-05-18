@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @PrathameshhW<br>👀 I’m interested in developing web application.<br>🌱 I’m currently learning MERN Stack<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me gmail - prathameshj0407@gmail.com
+👋 Hi, I’m Prathamesh Jadhav<br>👀 I’m interested in developing web application.<br>🌱 I’m currently learning MERN Stack<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me gmail - prathameshj0407@gmail.com
 
 
 ## 🌐 Socials:
