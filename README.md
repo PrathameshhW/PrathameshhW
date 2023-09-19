@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Prathamesh Jadhav<br>👀 I’m interested in developing web application.<br>🌱 I’m currently learning MERN Stack<br>💞️ I’m looking to collaborate on projects<br>📫 How to reach me gmail - prathameshj0407@gmail.com
 
-![](https://tenor.com/view/scaler-create-impact-dog-coding-programming-gif-25011983.gif)
+![](https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh0407/) 
