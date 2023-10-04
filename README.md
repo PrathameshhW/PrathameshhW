@@ -11,9 +11,6 @@
 ![](https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PrathameshhW&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PrathameshhW&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
