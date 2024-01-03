@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌍  I'm based in Navi Mumbai, India<br>✉️  You can contact me at prathameshj0407@gmail.com<br>🧠  I'm learning Everything<br>⚡  I'm Batman
 
-# <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="100"> LeetCode: 
+# <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="20"> LeetCode: 
 ![](https://leetcode.card.workers.dev/PrathameshhW?theme=dark&font=baloo&extension=null)
 
 
