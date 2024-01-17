@@ -10,5 +10,4 @@
 <a href="https://app.daily.dev/prathamesh04"><img src="https://api.daily.dev/devcards/d19ae85d4d524fcfa57ca0961ad25f7e.png?r=vcc" width="400" alt="Prathamesh Jadhav's Dev Card"/></a>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PrathameshhW&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PrathameshhW&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshhW&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
