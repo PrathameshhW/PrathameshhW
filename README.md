@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🌍  I'm based in Navi Mumbai, India<br>✉️  You can contact me at prathamesh.codes@gmail.com<br>🧠  I'm currently learning Everything 😂<br>⚡  I'm Batman
+🌍  I'm based in Navi Mumbai, India<br>✉️  You can contact me at prathamesh.codes@gmail.com<br>🧠  I'm currently learning Everything 😂
 
 
 # 💻 Tech Stack:
